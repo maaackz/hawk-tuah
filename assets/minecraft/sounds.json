@@ -1,0 +1,154 @@
+{
+  "mob.villager.yes3": {
+    "sounds": [
+      {
+        "name": "mob/villager/yes3",
+        "stream": false
+      }
+    ]
+  },
+  "mob.villager.death": {
+    "sounds": [
+      {
+        "name": "mob/villager/death",
+        "stream": false
+      }
+    ]
+  },
+  "mob.villager.haggle1": {
+    "sounds": [
+      {
+        "name": "mob/villager/haggle1",
+        "stream": false
+      }
+    ]
+  },
+  "mob.villager.haggle2": {
+    "sounds": [
+      {
+        "name": "mob/villager/haggle2",
+        "stream": false
+      }
+    ]
+  },
+  "mob.villager.haggle3": {
+    "sounds": [
+      {
+        "name": "mob/villager/haggle3",
+        "stream": false
+      }
+    ]
+  },
+  "mob.villager.hit1": {
+    "sounds": [
+      {
+        "name": "mob/villager/hit1",
+        "stream": false
+      }
+    ]
+  },
+  "mob.villager.hit2": {
+    "sounds": [
+      {
+        "name": "mob/villager/hit2",
+        "stream": false
+      }
+    ]
+  },
+  "mob.villager.hit3": {
+    "sounds": [
+      {
+        "name": "mob/villager/hit3",
+        "stream": false
+      }
+    ]
+  },
+  "mob.villager.hit4": {
+    "sounds": [
+      {
+        "name": "mob/villager/hit4",
+        "stream": false
+      }
+    ]
+  },
+  "mob.villager.idle1": {
+    "sounds": [
+      {
+        "name": "mob/villager/idle1",
+        "stream": false
+      }
+    ]
+  },
+  "mob.villager.idle2": {
+    "sounds": [
+      {
+        "name": "mob/villager/idle2",
+        "stream": false
+      }
+    ]
+  },
+  "mob.villager.idle3": {
+    "sounds": [
+      {
+        "name": "mob/villager/idle3",
+        "stream": false
+      }
+    ]
+  },
+  "mob.villager.no1": {
+    "sounds": [
+      {
+        "name": "mob/villager/no1",
+        "stream": false
+      }
+    ]
+  },
+  "mob.villager.no2": {
+    "sounds": [
+      {
+        "name": "mob/villager/no2",
+        "stream": false
+      }
+    ]
+  },
+  "mob.villager.no3": {
+    "sounds": [
+      {
+        "name": "mob/villager/no3",
+        "stream": false
+      }
+    ]
+  },
+  "mob.villager.yes1": {
+    "sounds": [
+      {
+        "name": "mob/villager/yes1",
+        "stream": false
+      }
+    ]
+  },
+  "mob.villager.yes2": {
+    "sounds": [
+      {
+        "name": "mob/villager/yes2",
+        "stream": false
+      }
+    ]
+  },
+  "mob.llama.spit1": {
+    "sounds": [
+      {
+        "name": "mob/llama/spit1",
+        "stream": false
+      }
+    ]
+  },
+  "mob.llama.spit2": {
+    "sounds": [
+      {
+        "name": "mob/llama/spit2",
+        "stream": false
+      }
+    ]
+  }
+}
